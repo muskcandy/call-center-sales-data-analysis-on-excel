@@ -1,9 +1,17 @@
 # call-center-sales-data-analysis-on-excel
+
+📷 Dashboard Preview
+<img width="2340" height="1438" alt="Screenshot 2026-03-02 123026" src="https://github.com/user-attachments/assets/aef14217-05d8-45bc-ab2d-c708d685331d" />
+
+
 📌 Project Overview
 
 This project presents an interactive Excel dashboard for Call Center Data Analysis (2023). The objective is to transform raw operational data into actionable business insights using Excel-based analytics, visualizations, and KPIs. The dashboard enables stakeholders to monitor call performance, agent productivity, customer behavior, revenue trends, and service quality in a single unified view.
 
 The project demonstrates practical data analyst skills, including data cleaning, KPI formulation, pivot analysis, visualization design, and dashboard storytelling.
+
+<br>
+<br>
 
 🎯 Objectives
 
@@ -17,7 +25,7 @@ Track operational KPIs such as total calls, revenue, call duration, and happy ca
 
 Compare male vs female caller distribution across cities.
 
-
+<br><br>
 🛠 Tools & Technologies
 
 Microsoft Excel
@@ -34,7 +42,7 @@ Conditional Formatting
 
 Charts & Visual Analytics
 
-
+<br><br>
 📊 Key Performance Indicators (KPIs)
 Metric	Value
 Total Calls	1,000
@@ -43,7 +51,7 @@ Total Call Duration	89,850 sec
 Average Customer Rating	3.9 / 5
 Happy Callers	307
 
-
+<br><br>
 📈 Dashboard Insights
 1. Monthly Call Trend
 
@@ -89,7 +97,7 @@ High-value customers identified for each city.
 
 Helps in customer retention strategies and loyalty programs.
 
-
+<br><br>
 📂 Dataset Description
 
 The dataset contains structured call center data including:
@@ -118,7 +126,7 @@ Day of week
 
 Year
 
-
+<br><br>
 ⚙ Data Processing Workflow
 
 Data Cleaning
@@ -151,7 +159,7 @@ Bar Charts
 
 Interactive Filters & Slicers
 
-
+<br><br>
 🚀 Business Impact
 
 Enables real-time performance monitoring
@@ -162,7 +170,7 @@ Helps optimize staff allocation and sales strategies
 
 Improves customer satisfaction tracking
 
-
+<br><br>
 📌 Project Highlights
 
 Fully interactive Excel dashboard
@@ -173,10 +181,7 @@ Professional KPI layout
 
 Business-focused insights
 
-
-📷 Dashboard Preview
-<img width="2340" height="1438" alt="Screenshot 2026-03-02 123026" src="https://github.com/user-attachments/assets/aef14217-05d8-45bc-ab2d-c708d685331d" />
-
+<br><br>
 
 🔮 Future Enhancements
 
@@ -188,7 +193,7 @@ Implement agent performance scoring model
 
 Automate data refresh using Power Query
 
-
+<br><br>
 
 🧠 Learning Outcomes
 
@@ -200,7 +205,7 @@ Business intelligence fundamentals
 
 Data-driven insight generation
 
-
+<br><br>
 
 👤 Author
 
