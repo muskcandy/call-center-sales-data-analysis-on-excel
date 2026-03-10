@@ -1,7 +1,7 @@
 # call-center-sales-data-analysis-on-excel
 
 📷 Dashboard Preview
-<img width="2340" height="1438" alt="Screenshot 2026-03-02 123026" src="https://github.com/user-attachments/assets/aef14217-05d8-45bc-ab2d-c708d685331d" />
+<img width="2691" height="1414" alt="project1" src="https://github.com/user-attachments/assets/18c7fec1-b3d7-4c41-9323-2a2419738a8a" />
 
 
 📌 Project Overview
